@@ -11,5 +11,8 @@
   "license": "ISC",
   "volta": {
     "node": "18.17.1"
+  },
+  "dependencies": {
+    "zenn-cli": "^0.1.144"
   }
 }
