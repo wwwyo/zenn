@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "zenn preview",
-    "new": "zenn new:article"
+    "gen": "zenn new:article"
   },
   "keywords": [],
   "author": "",
