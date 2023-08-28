@@ -1,3 +1,6 @@
+# My Zenn
+https://zenn.dev/www_y
+
 # Zenn CLI
 
 👇 新しい記事を作成する
